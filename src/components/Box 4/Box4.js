@@ -2,7 +2,7 @@ import { motion } from 'framer-motion'
 import React from 'react'
 import './Box4.css'
 
-const Box1 = () => {
+const Box4 = () => {
 	
 
 	return (
@@ -30,4 +30,4 @@ const Box1 = () => {
 	)
 }
 
-export default Box1
+export default Box4

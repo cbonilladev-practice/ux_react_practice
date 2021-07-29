@@ -2,7 +2,7 @@ import { motion } from 'framer-motion'
 import React, { useState } from 'react'
 import './Box2.css'
 
-const Box1 = () => {
+const Box2 = () => {
 	const [isAnimating, setIsAnimating] = useState(false)
 
 	return (
@@ -28,4 +28,4 @@ const Box1 = () => {
 	)
 }
 
-export default Box1
+export default Box2

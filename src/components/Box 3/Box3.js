@@ -2,7 +2,7 @@ import { motion } from 'framer-motion'
 import React from 'react'
 import './Box3.css'
 
-const Box1 = () => {
+const Box3 = () => {
 	const boxVariant = {
 		hidden: {
 			x: "-100vw"
@@ -50,4 +50,4 @@ const Box1 = () => {
 	)
 }
 
-export default Box1
+export default Box3
