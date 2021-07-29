@@ -23,7 +23,7 @@ const Box1 = () => {
 					bottom: 20
 				}}
 				onClick={() => setIsAnimating(!isAnimating)}
-			><h2 style={{color: "white"}}>Click Me!</h2></motion.div>
+			><h2 style={{color: "white"}}>Hover (& Drag) Me!</h2></motion.div>
 		</div>
 	)
 }
